@@ -1,0 +1,13 @@
+body{
+	background-image: url(img/space.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	bg
+}
+.hello{
+	display: flex;
+	justify-content: center;
+	font-size: 30px;
+	font-family: 'Roboto';
+	margin-top: 300px;
+}
