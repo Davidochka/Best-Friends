@@ -1,0 +1,46 @@
+body{
+	background-image: url(img/ornaments_texture1133.jpg);
+}
+.carousel1{
+	width: 40%;
+	margin-left: 5%;
+	margin-top: -50px;;
+} 
+.carousel2{
+	width: 40%;
+	margin-top: -1026px;
+}
+.carousel3{
+	margin-top: 30px;
+	width: 40%;
+	margin-left: 5%;
+}
+.carousel4{
+	width: 40%;
+	margin-top: -610px;
+	margin-left: 55%;
+}
+.btn4{
+	margin-left: 38%;
+	margin-top: 3%;
+}
+.btn3{
+	margin-left: 37%;
+}
+.btn2{
+	margin-left: 38%;
+}
+.btn1{
+	margin-left: 32%;
+}
+.begin2{
+	margin-left: 55%;
+}
+.carousel-inner{
+	border: 3px solid white;
+}
+.t2019{
+	text-align: center;
+	color: white;
+	font-size: 60px
+}
